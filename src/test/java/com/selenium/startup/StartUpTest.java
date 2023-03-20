@@ -18,6 +18,7 @@ public class StartUpTest {
                                     "</dependency>");
         System.out.println("Step-6: Add property to your project below;");
         System.out.println("System.setProperty(\"webdriver.http.factory\", \"jdk-http-client\");");
+        System.out.println("Step-7: You should check java and other dependency versions on pom.xml to prevent any version errors");
     }
 
 }
